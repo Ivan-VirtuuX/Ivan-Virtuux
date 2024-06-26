@@ -7,7 +7,6 @@ Frontend Web Developer
 I am a beginner web developer, I have developed several pet-projects, using React.js library, Next.js, Vue.js frameworks, worked with backend frameworks express.js, Nest.js. My main pet-project was the development of social network Soundy using Next.js and Nest.js, web sockets
 
 * ✉️  You can contact me at [thevirtuux@gmail.com](mailto:thevirtuux@gmail.com)
-* 🧠  I'm learning Nuxt.js
 
 ### Skills
 
